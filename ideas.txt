@@ -1,0 +1,55 @@
+A list of ideas to myself for things to make in the future.
+I need an idea stockpile
+To make a project stockpile
+To continue daily output
+To open myself.
+
+In the future it may behoove me
+To make this list private.
+At present I see no reason to do this
+And fortunately I will see this list every day as I am tinkering with stuff.
+
+[] for yet-unfulfilled 
+[/] for fulfilled
+
+==== SWARMALATORS ====
+I've always had a soft spot for these funky guys!
+[] Swarmalator simulation
+[] Write numerical scheme
+[] Add voronoi cells
+[] Extend to 3D?
+[] Sim on different topologies, e.g. donut
+
+==== ORCHARDS ====
+https://www.youtube.com/watch?v=p-xa-3V5KO8
+The above video has rattled around in my head for years.
+[] Animate visual regions between circular orchards
+[] Align orchards on different lattices
+[] Be able to move them around, dilate and contract in diameter
+[] Fun topologies?
+
+==== PROJECTIVE HARWOOD ====
+There is a June Harwood painting that stuck with me today.
+It doesn't look like a perfectly projected hexagonal lattice
+Because it was made by a human.
+My partner suggest that shape could be wrapped on a dome.
+Makes me wonder what actual 3D geometries could create the visuals on the canvas.
+[] Make linear algebra projective visual thing - dragging corners like a "PDF scanner" phone app
+[] Make hexagonal lattice
+[] Warp it on 3D shape
+[] Attempt the inverse problem
+
+==== BLUE SKY CATASTROPHE ====
+This thing is so fucking well named
+And I really like bifurcations
+But I've never actually seen one happen. Only looked at figures.
+It's time to change that.
+[] ODE numerical scheme solver
+[] Find bifurcation values
+[] Make fun animation. Profit spiritually.
+
+==== LOADING ====
+In many ways I am loading.
+I want to represent that artistically.
+[] Loading bars running around Lorenz attractor
+[] Several nearby initial starting points. Watch as loaders diverge. This is a rich statement on the human experience.
