@@ -14,6 +14,9 @@ Then I will share evidence of that... somehow.
 My comfort language is matlab, so I'll be starting there.
 But I intend to branch out in time.
 
+Current profile pic: screenshot from a gif posted on Vecteezy.
+https://www.vecteezy.com/video/8202380-loading-circle-icon-loading-gif-loading-screen-gif-loading-video-spinner-gif-video-loading-animation-video-loading
+
 
 <!---
 JoyIsLoading/JoyIsLoading is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
